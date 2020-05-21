@@ -10,7 +10,7 @@ public class SpringbootStarterApplication  {
 
 	private static final Logger log =   LoggerFactory.getLogger(SpringbootStarterApplication.class);
 	public static void main(String[] args) {
-log.info("***********************************************************************");
+
 		SpringApplication.run(SpringbootStarterApplication.class, args);
 
 
